@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+}
+
+/* .container {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.box {
+  min-width: 400px;
+  background: #6aa2da9c;
+  border-radius: 30px;
+  text-align: center;
+  padding: 20px;
+  position: relative;
+}
+
+h1 {
+  padding: 10px 0;
+}
+
+.content {
+  background: #fff;
+  padding: 20px 0;
+}
+
+.input {
+  padding: 10px 0;
+}
+
+.input label { */
+}
